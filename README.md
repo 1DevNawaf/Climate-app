@@ -6,6 +6,9 @@
 
 Climate App is an application designed to provide users with weather information based on their current location. This project serves as a learning platform for utilizing APIs to retrieve data such as location and weather. Additionally, it focuses on asynchronous programming in Dart, demonstrating how to handle time-consuming tasks like obtaining device location and fetching data from the internet.
 
+![Climate App previwe](https://drive.google.com/uc?export=view&id=1tHMWkvSFVGWIGMqOA9vRMCtZQZ8xkitg)
+
+
 ## Features
 
 - **Location Retrieval**: Utilizes device capabilities to fetch the user's current location.
